@@ -41,6 +41,8 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+
+
 *,
 *::before,
 *::after {
@@ -2471,17 +2473,17 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #F3B439;
+  border-color: #F3B439;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
+  background-color: #F3B439;
   border-color: #ee3e0d;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #f24516;
+  background-color: #F3B439;
   border-color: #ee3e0d;
   box-shadow: 0 0 0 0.2rem rgba(246, 122, 88, 0.5);
 }
@@ -6095,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #F3B439 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9797,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #F3B439 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9872,7 +9874,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: rgba(0, 0, 0, 0.5) !important;
 }
 
-.text-white-50 {
+.text-grey-50 {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
@@ -10007,7 +10009,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #F3B439;
 }
 
 hr.light {
@@ -10049,10 +10051,10 @@ hr.light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #F3B439;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #F3B439 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10083,13 +10085,13 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f4623a;
+    color: #F3B439;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #F3B439;
   }
 }
 
